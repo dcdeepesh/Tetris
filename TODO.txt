@@ -1,0 +1,27 @@
+Add executors for per-second scheduling
+
+Add score system
+
+Add timer display
+
+Add concurrent sync support
+
+Check the bottom row multiple times for multiple removals
+
+Add options for changing board size and block colour
+
+Add pause option (on pressing 'P')
+
+Add difficulty (drop speed) level
+
+Add 'Uh, oh' functionality
+
+Add down arrow key support
+
+Add platform specific UI support
+
+Add 'game over'
+
+Implement home screen and game screen concept
+
+Add 'About' and 'Controls'
